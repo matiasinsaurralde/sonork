@@ -1,0 +1,81 @@
+
+SONORK SOURCE CODE LICENSE (SSCL)
+
+VERSION 1
+---------
+
+This license is made by SONORK SRL (LICENSOR) , to grant you (LICENSEE), 
+permission, free of charge, to obtain a copy of the Sonork Client Source Code 
+and associated documentation files and the rights to use, copy, modify, merge, 
+publish, distribute and/or sell copies of such Source code and to permit 
+persons to whom the source code is furnished to do so.
+
+Definitions 
+-----------
+"Library" means a collection of software functions and/or data 
+  prepared so as to be conveniently linked with application 
+  programs (which use some of those functions and data) to form executables. 
+
+"Work based on the library" or "derived from it" means either
+ the Library itself or any work under copyright law: that is to say, 
+ a work containing the Library or a portion of it, either verbatim or 
+ with modifications and/or translated straightforwardly into another language. 
+ (Hereinafter, translation is included without limitation in the term "modification".) 
+
+"Source code" for a work means the preferred form of the work for making modifications 
+ to it. For a library, the source code includes any associated interface 
+ definition files, plus the scripts used to control compilation and 
+ installation of the library. 
+
+"Sonork Client Source Code" (SCSC) is any source code, library or other program 
+  which contains a notice placed by the LICENSOR saying it may be distributed 
+  under the terms of this License.
+
+Terms
+------
+1) If the SCSC derived work is used to produce software for any type of communication, 
+   it must remain compatible with the Sonork Messaging System. Compatible meaning, 
+   but not limited to, the ability to connect, exchange instant messages, files 
+   and see other users online status.
+2) SCSC derived work may be able to connect to 3rd party Instant Messaging Servers 
+   not owned by the LICENSOR, provided that the functionality expressed in 1 is 
+   not degraded by doing so.
+3) Code derived from the SCSC cannot be used to create any kind of Server Software 
+   without written permission of the LICENSOR. Server Software meaning, but not 
+   limited to, applications to which the derived work established a link with 
+   in order to function or extend its functions.
+4) The LICENSEE may choose to disclose the original SCSC or the derived work. 
+   In either case the name of the LICENSOR must appear and any modifications 
+   to the original SCSC should be clearly indicated.
+5) Neither the name of the LICENSOR nor the names of its contributors may be used 
+   to endorse or promote products derived from this software without specific 
+   prior written permission. 
+6) The LICENSEE may not add restrictions on the original SCSC nor to other 
+   LICENSEES derived libraries. It may do so for its own derived work.
+7) The SCSC may not be used as a tool to disable or attempt to disable Sonork 
+   Server Applications which are not owned by You. Testing unstable or potentially 
+   harmful versions of the derived work against Servers not owned by You is considered 
+   an offense  to this license term. 
+8) The SCSC may not be used as a tool to disable or attempt to disable Sonork 
+   Client Applications not owned by You. Testing unstable or potentially harmful
+   versions of the derived work with other users who have not agreed to do so is
+   considered an offense to this license term. 
+9) If your redistribute the SCSC, or any part of it, this license, unmodified,
+   MUST accompany the SCSC. 
+
+Disclaimer
+----------
+THIS SOFTWARE IS PROVIDED BY THE LICENSOR "AS IS" AND ANY EXPRESS OR 
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS 
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE. 
+
+-------------------
+END OF THE DOCUMENT
